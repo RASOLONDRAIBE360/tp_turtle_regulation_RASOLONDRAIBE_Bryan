@@ -21,6 +21,7 @@ setup(
     entry_points={
         'console_scripts': [
             'my_node_subscriber = turtle_regulation.set_way_point:main',
+            'my_subscriber = turtle_regulation.set_way_point_eucl:main',
         ],
     },
 )
