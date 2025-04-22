@@ -13,13 +13,14 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='info',
-    maintainer_email='info@todo.todo',
+    maintainer='Bryan',
+    maintainer_email='rstevybryan@gmail.com',
     description='TODO: Package description',
     license='TODO: License declaration',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            'my_node_subscriber = turtle_regulation.set_way_point:main',
         ],
     },
 )

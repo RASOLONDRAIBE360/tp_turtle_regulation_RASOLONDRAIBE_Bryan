@@ -4,7 +4,7 @@
   <name>turtle_regulation</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="info@todo.todo">info</maintainer>
+  <maintainer email="rstevybryan@gmail.com">info</maintainer>
   <license>TODO: License declaration</license>
 
   <depend>rclpy</depend>
